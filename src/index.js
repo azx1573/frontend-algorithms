@@ -1,1 +1,1 @@
-export { default as isPrime} from './algorithms/isPrime/index';
+export { default as isPrime} from './src/algorithms/isPrime/index';

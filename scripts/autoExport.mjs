@@ -1,15 +1,15 @@
 import fs from "fs-extra";
 
-fs.readdir("./algorithms/").then((fileList) => {
+fs.readdir("./src/algorithms/").then((fileList) => {
   if (Array.isArray(fileList)) {
     let exportStr = "";
     if (fileList?.length) {
       fileList.forEach((file) => {
         let fileName = file.split(".")[0];
         if (file.endsWith(".js") || file.endsWith(".ts")) {
-          exportStr += `export { default as ${fileName}} from './algorithms/${fileName}';\n`;
+          exportStr += `export { default as ${fileName}} from './src/algorithms/${fileName}';\n`;
         } else {
-          exportStr += `export { default as ${fileName}} from './algorithms/${fileName}/index';\n`;
+          exportStr += `export { default as ${fileName}} from './src/algorithms/${fileName}/index';\n`;
         }
       });
 
