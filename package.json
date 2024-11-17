@@ -1,0 +1,16 @@
+{
+  "name": "frontend-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "node ./scripts/autoExport.mjs",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "sunflower1573",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^9.1.6"
+  }
+}
