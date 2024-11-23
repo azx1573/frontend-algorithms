@@ -2,16 +2,19 @@
  * 判断一个字符是否是回文字符串-双指针解法
  */
 const isPalindrome = function (s) {
-  s = s
-    .replace(/[^a-zA-Z0-9]/g, "")
-    .replace(/\s/g, "")
-    .toLowerCase();
-  let len = s.length,
-    left = 0,
-    right = len - 1;
+  // remove all non-alphanumeric characters and convert to lowercase
+  const newString = s.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+
+  let len = newString.length;
+  let left = 0;
+  let right = len - 1;
+
+  if (len < 2) {
+    return true;
+  }
 
   while (left < right) {
-    if (s[left] !== s[right]) {
+    if (newString[left] !== newString[right]) {
       return false;
     } else {
       left++;
@@ -20,7 +23,6 @@ const isPalindrome = function (s) {
   }
   return true;
 };
-j;
 
 console.log(111, isPalindrome("A man, a plan, a canal: Panama")); // true
 console.log(222, isPalindrome("race a car")); // false
