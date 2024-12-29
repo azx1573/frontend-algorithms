@@ -1,6 +1,6 @@
 {
   "name": "frontend-algorithms",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "fs-extra": "^11.2.0",
-    "husky": "^9.1.6"
+    "husky": "^9.1.6",
+    "ts-node": "^10.9.2"
   }
 }

@@ -4,19 +4,35 @@
 
 渐进式收集整理算法相关知识比如高频算法题、手动实现数据结构如堆、栈、队列、链表、哈希表、二叉树、平衡搜索二叉树、红黑树、图等：
 
-一、基础算法题
+下面基础算法题来自力扣、豆包等渠道，链接了原文地址同时附带自己的部分解题思路，部分题目附图解。
 
-1. 判断一个字符串是否为回文串 - isPalindrome ✅
-2. 判断一个数字是否为质数 - isPrime ✅
-3. 删除有序数组中的重复元素 - removeSame ✅
-4. 数组轮转 - rotate ✅
-5. 求解两数之和（找出数组中两数之和等于 target 的数据）- sum ✅
-6. 找出字符串中第一个匹配项的下标 - findFirstIdxInStr ✅
-7. 寻找字符串中的第一个唯一字符 - firstUniqChar ✅
-8. 求两数组的交集 - intersectOfTwoArray ✅
-9. 找出字符串数组中，最长的公共前缀 - longCommonPrefix ✅
-10. 合并有序数组 - mergeArray ✅
-11. 翻转字符串 - reverseString ✅
+## 一、基础算法题
+
+### `-Easy-`
+
+- [爬楼梯-78-climbStairs](https://leetcode.cn/problems/climbing-stairs/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [判断数组中是否存在重复元素-217-containsDuplicate](https://leetcode.cn/problems/contains-duplicate/description/) ✅
+- [找出字符串中第一个匹配项的下标-28-findFirstIdxInStr](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/) ✅
+- [字符串中的第一个唯一字符-387-firstUniqChar](https://leetcode.cn/problems/first-unique-character-in-a-string) ✅
+- [求两数组的交集-力扣-350-intersectOfTwoArray](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) ✅
+- [验证回文字符串-125-isPalindrome](https://leetcode.cn/problems/valid-palindrome/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [有效的括号-20-isValid](https://leetcode.cn/problems/valid-parentheses/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [最长的公共前缀-14-longCommonPrefix](https://leetcode.cn/problems/longest-common-prefix/) ✅
+- [合并两个有序数组-88-mergeArray](https://leetcode.cn/problems/merge-sorted-array) ✅
+- [合并两个升序链表-21-mergeTwoLists](https://leetcode.cn/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [加一-66-plusOne](https://leetcode.cn/problems/plus-one/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [删除有序数组中的重复项-26-removeSame](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [反转字符串-344-reverseString](https://leetcode.cn/problems/reverse-string/) ✅
+- [罗马数字转整数-13-remanToInt](https://leetcode.cn/problems/roman-to-integer/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [求 x 的平方根-69-sqrt](https://leetcode.cn/problems/sqrtx/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [求两数之和是否等于 target-1-sum](https://leetcode.cn/problems/two-sum/) ✅
+- 两个字符串中相同字数-twoStrHaveSameCount ✅
+
+### `-Middle-`
+
+- [两数相加-2-addTwoNumNumbers](https://leetcode.cn/problems/add-two-numbers/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [求无重复最长子串-3-lengthOfLongestSubstring](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=2ckc81c) ✅
+- [最少前缀操作问题-lessCount](https://www.marscode.cn/practice/0rrwy9yleqeoye?problem_id=7424418560931168300) ✅
 
 部分赋了类似如下的 dio 图解思路，其它的会逐步补充完整~
 
