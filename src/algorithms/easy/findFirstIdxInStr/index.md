@@ -13,3 +13,7 @@
 输入：haystack = "leetcode", needle = "leeto"
 输出：-1
 解释："leeto" 没有在 "leetcode" 中出现，所以返回 -1 。
+
+## 解题思路
+
+请参见对应的[代码注释](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findFirstIdxInStr/index.ts)

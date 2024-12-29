@@ -16,12 +16,6 @@ function climbStairs(n: number): number {
   return climbStairs(n - 1) + climbStairs(n - 2);
 }
 
-// test cases
-console.log(climbStairs(2)); // 2
-console.log(climbStairs(3)); // 3
-console.log(climbStairs(4)); // 5
-console.log(climbStairs(44)); // 1134903170
-
 /**
  * 爬楼梯：
  * 方案二：动态规划, 时间复杂度O(n), 空间复杂度O(n)
@@ -51,3 +45,14 @@ function climbStairs2(n: number): number {
 
   return dp[n];
 }
+
+// test cases
+console.log(climbStairs(2)); // 2
+console.log(climbStairs(3)); // 3
+console.log(climbStairs(4)); // 5
+console.log(climbStairs(44)); // 1134903170
+
+console.log(climbStairs2(2)); // 2
+console.log(climbStairs2(3)); // 3
+console.log(climbStairs2(4)); // 5
+console.log(climbStairs2(44)); // 1134903170
