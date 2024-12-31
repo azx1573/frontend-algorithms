@@ -32,6 +32,8 @@
 - [求 x 的平方根-69-sqrt](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/sqrt/index.ts) ✅
 - [求两数之和是否等于 target-1-sum](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/sum/sumOfTarget.ts) ✅
 - [两个字符串中相同字数-twoStrHaveSameCount](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/twoStrHaveSameCount/index.ts) ✅
+- [杨辉三角-118-yanghuiTriangle](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/yanghuiTriangle/index.ts)
+- [小 U 的数字插入问题-numberInsert](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/numberInsert/index.ts)
 
 ### `-Middle-`
 
