@@ -35,6 +35,9 @@
 - [杨辉三角-118-yanghuiTriangle](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/yanghuiTriangle/index.ts)
 - [小 U 的数字插入问题-numberInsert](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/numberInsert/index.ts)
 - [买卖股票的最佳时机-121-maxProfitOfStock](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/maxProfitOfStock/index.ts)
+- [fizzBuzz-412-fizzBuzz](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/fizzBuzz/index.ts)
+  [-是否是 3 的幂-326-isPowerOfThree](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isPowerOfThree/index.ts)
+  [-缺失的数字-268-missingNumber](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/missingNumber/index.ts)
 
 ### `-Middle-`
 
