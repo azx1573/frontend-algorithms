@@ -59,3 +59,4 @@ console.log(mySqrt(4)); // 2
 console.log(mySqrt(8)); // 2
 console.log(mySqrt(9)); // 3
 console.log(mySqrt(16)); // 4
+console.log(mySqrt2(45)); // 6

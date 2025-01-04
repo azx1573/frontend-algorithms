@@ -11,7 +11,7 @@ exports.mySqrt2 = exports.mySqrt = void 0;
  * @returns {number}
  */
 var mySqrt = function (x) {
-  return Math.floor(Math.sqrt(x));
+    return Math.floor(Math.sqrt(x));
 };
 exports.mySqrt = mySqrt;
 /**
@@ -36,18 +36,20 @@ exports.mySqrt = mySqrt;
  * @returns {number}
  */
 var mySqrt2 = function (x) {
-  if (x === 0) return 0;
-  var left = 0;
-  var right = Math.floor(x / 2) + 1;
-  while (left < right) {
-    var mid = Math.floor((left + right + 1) / 2);
-    if ((mid ^ 2) > x) {
-      right = mid - 1;
-    } else {
-      left = mid;
+    if (x === 0)
+        return 0;
+    var left = 0;
+    var right = Math.floor(x / 2) + 1;
+    while (left < right) {
+        var mid = Math.floor((left + right + 1) / 2);
+        if ((mid ^ 2) > x) {
+            right = mid - 1;
+        }
+        else {
+            left = mid;
+        }
     }
-  }
-  return left;
+    return left;
 };
 exports.mySqrt2 = mySqrt2;
 // test cases
@@ -55,3 +57,4 @@ console.log((0, exports.mySqrt)(4)); // 2
 console.log((0, exports.mySqrt)(8)); // 2
 console.log((0, exports.mySqrt)(9)); // 3
 console.log((0, exports.mySqrt)(16)); // 4
+console.log((0, exports.mySqrt2)(45)); // 6
