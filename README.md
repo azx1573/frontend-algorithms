@@ -37,14 +37,16 @@
 - [买卖股票的最佳时机-121-maxProfitOfStock](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/maxProfitOfStock/index.ts) ✅
 - [fizzBuzz-412-fizzBuzz](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/fizzBuzz/index.ts) ✅
 - [是否是 3 的幂-326-isPowerOfThree](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isPowerOfThree/index.ts) ✅
-- [缺失的数字-268-missingNumber](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/missingNumber/index.ts) ✅
+- [缺失的数字-268-missingNumber](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/missingNumber/index.ts) ✅ -[字符串解密加扰字符串-findValidStr](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findValidStr/index.ts) ✅
 
 ### `-Middle-`
 
 - [两数相加-2-addTwoNumNumbers](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/addTwoNumbers/index.js) ✅
 - [求无重复最长子串-3-lengthOfLongestSubstring](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/lengthOfLongestSubstring/index.js) ✅
 - [最少前缀操作问题-lessCount](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/lessCount/index.ts) ✅
-- [轮转数组-189-rotate](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/rotate/index.js) ✅
+- [最小调整次数-华为笔试题-minAdjustments](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/minAdjustments/index.js) ✅
+- [二进制不进位等分苹果-华为笔试题-divideApple](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/divideApple/index.js) ✅
+- [部分人力分配-华为笔试题-calculateResult](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/calculateResult/index.js) ✅
 
 部分赋了类似如下的 dio 图解思路，其它的会逐步补充完整~
 

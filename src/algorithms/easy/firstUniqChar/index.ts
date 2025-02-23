@@ -45,3 +45,11 @@ function firstUniqChar2(s: string): number {
   }
   return -1;
 }
+
+// test cases
+firstUniqChar("leetcode"); // 0
+firstUniqChar("loveleetcode"); // 2
+firstUniqChar("aabb"); // -1
+firstUniqChar2("leetcode"); // 0
+firstUniqChar2("loveleetcode"); // 2
+firstUniqChar2("aabb"); // -1
