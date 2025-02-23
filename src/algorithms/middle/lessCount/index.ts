@@ -37,8 +37,8 @@ function lessCount(s: string, t: string): number {
   }
 
   //   如果s还有剩余的字符串，直接删除，次数为s剩余的长度
-  if (i < s.length) {
-    count += s.length - i; // 此时t已经遍历完了，所以s剩余的长度就是需要删除的次数
+  if (s.length > t.length) {
+    count += s.length - t.length; // 此时t已经遍历完了，所以s剩余的长度就是需要删除的次数
   }
 
   // t如果还有剩余的长度无需关注，因为只匹配前缀，这种情况只需修改s的字符即可，次数为s的长度
@@ -49,6 +49,7 @@ function lessCount(s: string, t: string): number {
 console.log(lessCount("aba", "abb")); // 1
 console.log(lessCount("abcd", "efg")); // 4
 console.log(lessCount("xyz", "xy")); // 1
+console.log(lessCount("xyz", "ab")); // 3
 console.log(lessCount("hello", "helloworld")); // 0
 console.log(lessCount("same", "same")); // 0
-console.log(lessCount("bbbabaaaaa", "baaabaaabaaaba")); // 6
+console.log(lessCount("bbbabaaaaa", "baaabaaabaaaba")); // 3
