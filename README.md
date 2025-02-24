@@ -37,7 +37,9 @@
 - [买卖股票的最佳时机-121-maxProfitOfStock](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/maxProfitOfStock/index.ts) ✅
 - [fizzBuzz-412-fizzBuzz](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/fizzBuzz/index.ts) ✅
 - [是否是 3 的幂-326-isPowerOfThree](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isPowerOfThree/index.ts) ✅
-- [缺失的数字-268-missingNumber](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/missingNumber/index.ts) ✅ -[字符串解密加扰字符串-findValidStr](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findValidStr/index.ts) ✅
+- [缺失的数字-268-missingNumber](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/missingNumber/index.ts) ✅
+- [符串解密加扰字符串-findValidStr](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findValidStr/index.ts) ✅
+- [分割字符串-splitString](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/splitString/index.ts) ✅
 
 ### `-Middle-`
 
