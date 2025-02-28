@@ -16,11 +16,6 @@ function climbStairs(n) {
         return 2;
     return climbStairs(n - 1) + climbStairs(n - 2);
 }
-// test cases
-console.log(climbStairs(2)); // 2
-console.log(climbStairs(3)); // 3
-console.log(climbStairs(4)); // 5
-console.log(climbStairs(44)); // 1134903170
 /**
  * 爬楼梯：
  * 方案二：动态规划, 时间复杂度O(n), 空间复杂度O(n)
@@ -37,11 +32,7 @@ console.log(climbStairs(44)); // 1134903170
  * @returns {number}
  */
 function climbStairs2(n) {
-    if (n === 1)
-        return 1;
-    if (n === 2)
-        return 2;
-    var dp = new Array(n + 1); // dp数组,n+1是因为dp[0]不用，所以数组长度为n+1
+    var dp = [];
     dp[1] = 1;
     dp[2] = 2;
     for (var i = 3; i <= n; i++) {
@@ -49,3 +40,12 @@ function climbStairs2(n) {
     }
     return dp[n];
 }
+// test cases
+console.log(climbStairs(2)); // 2
+console.log(climbStairs(3)); // 3
+console.log(climbStairs(4)); // 5
+console.log(climbStairs(44)); // 1134903170
+console.log(climbStairs2(2)); // 2
+console.log(climbStairs2(3)); // 3
+console.log(climbStairs2(4)); // 5
+console.log(climbStairs2(44)); // 1134903170
