@@ -42,6 +42,7 @@
 - [分割字符串-splitString](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/splitString/index.ts) ✅
 - [寻找一个数的所有质数因子-findPrimeFactor](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findPrimeFactor/index.ts) ✅
 - [将一个十进制数转换为二进制-switchBinary](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/switchBinary/index.ts) ✅
+- [小人坐标移动位置计算-removePosition](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/removePosition/index.ts) ✅
 
 ### `-Middle-`
 
@@ -51,6 +52,8 @@
 - [最小调整次数-华为笔试题-minAdjustments](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/minAdjustments/index.js) ✅
 - [二进制不进位等分苹果-华为笔试题-divideApple](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/divideApple/index.js) ✅
 - [部分人力分配-华为笔试题-calculateResult](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/calculateResult/index.js) ✅
+- [密码验证合格程序-华为笔试题-checkPassword](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/checkPassword/index.js) ✅
+- [整数或 ip 地址转换-华为笔试题-ipConvert](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/ipConvert/index.js) ✅
 
 部分赋了类似如下的 dio 图解思路，其它的会逐步补充完整~
 
