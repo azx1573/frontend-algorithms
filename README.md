@@ -21,7 +21,7 @@
 - [字符串中的第一个唯一字符-387-firstUniqChar](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/firstUniqChar/index.ts) ✅
 - [求两数组的交集-力扣-350-intersectOfTwoArray](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/intersectOfTwoArray/index.ts) ✅
 - [验证回文字符串-125-isPalindrome](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isPalindrome/index.js) ✅
-- [有效的括号-20-isValid](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isValid/index.js) ✅
+- [有效的括号-20-isValidBrackets](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/isValidBrackets/index.js) ✅
 - [最长的公共前缀-14-longCommonPrefix](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/longCommonPrefix/index.js) ✅
 - [合并两个有序数组-88-mergeArray](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/mergeArray/index.ts) ✅
 - [合并两个升序链表-21-mergeTwoLists](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/mergeTwoLists/index.js) ✅
