@@ -43,6 +43,7 @@
 - [寻找一个数的所有质数因子-findPrimeFactor](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findPrimeFactor/index.ts) ✅
 - [将一个十进制数转换为二进制-switchBinary](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/switchBinary/index.ts) ✅
 - [小人坐标移动位置计算-removePosition](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/removePosition/index.ts) ✅
+- [学生成绩排序-华为笔试题 HJ68-sortScore](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/sortScore/index.ts) ✅
 
 ### `-Middle-`
 
