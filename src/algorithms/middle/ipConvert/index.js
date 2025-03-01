@@ -38,5 +38,5 @@ function ipConvert(ip) {
 // 测试用例
 console.log(ipConvert("10.0.3.193")); // 167773121
 console.log(ipConvert("167773121")); // 10.0.3.193
-console.log(ipConvert("167969729")); // 167773121
-console.log(ipConvert("10.3.3.193")); // 10.0.3.193
+console.log(ipConvert("167969729")); // 10.3.3.193
+console.log(ipConvert("10.3.3.193")); // 167969729

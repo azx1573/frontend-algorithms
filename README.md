@@ -54,6 +54,7 @@
 - [部分人力分配-华为笔试题-calculateResult](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/calculateResult/index.js) ✅
 - [密码验证合格程序-华为笔试题-checkPassword](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/checkPassword/index.js) ✅
 - [整数或 ip 地址转换-华为笔试题-ipConvert](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/ipConvert/index.js) ✅
+- [查找兄弟单词-华为笔试题 HJ27-findBrotherLetter](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/findBrotherLetter/index.js) ✅
 
 部分赋了类似如下的 dio 图解思路，其它的会逐步补充完整~
 
