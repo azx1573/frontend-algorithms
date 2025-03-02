@@ -47,6 +47,8 @@
 
 ### `-Middle-`
 
+- [计算全排列 77-permutation](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/permutation/index.js) ✅
+- [计算组合 77-calculateCombine](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/calculateCombine/index.js) ✅
 - [两数相加-2-addTwoNumNumbers](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/addTwoNumbers/index.js) ✅
 - [求无重复最长子串-3-lengthOfLongestSubstring](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/lengthOfLongestSubstring/index.js) ✅
 - [最少前缀操作问题-lessCount](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/middle/lessCount/index.ts) ✅
