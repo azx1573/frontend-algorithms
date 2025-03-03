@@ -15,6 +15,7 @@
 
 ### `-Easy-`
 
+- [求最长连续递增子序列-78-findLenOfIncreaseSubSeq](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findLenOfIncreaseSubSeq/index.js) ✅
 - [爬楼梯-78-climbStairs](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/climbStairs/index.ts) ✅
 - [判断数组中是否存在重复元素-217-containsDuplicate](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/containsDuplicate/index.ts) ✅
 - [找出字符串中第一个匹配项的下标-28-findFirstIdxInStr](https://github.com/azx1573/frontend-algorithms/blob/master/src/algorithms/easy/findFirstIdxInStr/index.ts) ✅
